@@ -32,8 +32,6 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "false",              // Auto-react to messages?
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",          // Use custom emoji reactions?
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",  // Custom reaction emojis
-    STICKER_NAME: process.env.STICKER_NAME || "MEGALODON-MD",     // Sticker pack name
-
     
     // ===== MEDIA & AUTOMATION =====
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",      // Auto-record voice notes?
