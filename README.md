@@ -7,7 +7,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/DybyTech?color=blue&style=flat-square"></a>
+<a href="https://github.com/DybyTech/followers"><img title="Followers" src="https://img.shields.io/github/followers/DybyTech?color=blue&style=flat-square"></a>
 <a href="https://github.com/DybyTech/MEGALODON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DybyTech/MEGALODON-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/DybyTech/MEGALODON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DybyTech/MEGALODON-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/DybyTech/MEGALODON-MD"><img title="Size" src="https://img.shields.io/github/repo-size/DybyTech/MEGALODON-MD?style=flat-square&color=green"></a>
