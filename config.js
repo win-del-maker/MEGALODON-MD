@@ -14,9 +14,9 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "MEGALODON-MD~",  // Your bot's session ID (keep it secure)
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
     BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "MEGALODON-MD",  // Bot's display name
-    MODE: process.env.MODE || "public",        // Bot mode: public/private/group/inbox
+    MODE: process.env.MODE || "private",        // Bot mode: public/private/group/inbox
     // ===== OWNER & DEVELOPER SETTINGS =====
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "50948702213",  // Owner's WhatsApp number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "50933642760",  // Owner's WhatsApp number
     
     OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "",           // Owner's name
     
@@ -68,7 +68,7 @@ module.exports = {
     // Allow public commands?
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
     // Show bot as always online?
-    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
+    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     // React to status updates?
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     // VIEW to status updates?
